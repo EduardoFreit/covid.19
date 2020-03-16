@@ -44,4 +44,6 @@ Estas são as referências:
 https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
 * Australia Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+* Coronavirus Live Updates - Realtime Map - Live News Update Today
+https://realtime-coronavirus.com/ 
 
